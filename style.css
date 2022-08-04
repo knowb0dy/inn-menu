@@ -1,10 +1,20 @@
 body {
     background-color: #c6bdc1;
+    text-align: center;
+    margin: auto;
+}
+
+header {
+
 }
 
 .body-main {
-    background-image: url("https://heyreliable.com/wp-content/themes/reliable/images/blog/bg22@2x.jpg");
-    z-index: 1;
+    background-image: url(https://heyreliable.com/wp-content/themes/reliable/images/blog/bg22@2x.jpg);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 h1 {
