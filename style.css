@@ -1,0 +1,13 @@
+body {
+    background-color: #c6bdc1;
+}
+
+.body-main {
+    background-image: url("https://heyreliable.com/wp-content/themes/reliable/images/blog/bg22@2x.jpg");
+    z-index: 1;
+}
+
+h1 {
+    font-family: 'Julius Sans One', Sans-Serif;
+    font-size: 45px;
+}
