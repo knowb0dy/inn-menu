@@ -4,7 +4,7 @@ body {
     margin: autoq;
 }
 
-.body-main {
+#body-main {
     background-image: url(https://heyreliable.com/wp-content/themes/reliable/images/blog/bg22@2x.jpg);
     height: 100%;
     width: 100%;
@@ -16,4 +16,12 @@ body {
 h1 {
     font-family: 'Julius Sans One', Sans-Serif;
     font-size: 45px;
+}
+
+#body-main .menu-form {
+    background-color: #e3dcdf;
+    font-family: 'Monda', sans-serif;
+    font-size: 16px;
+    margin: auto;
+    width: 60%;
 }
